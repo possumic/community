@@ -38,7 +38,7 @@ To maintain a productive environment, all members must adhere to:
 ## How to Join
 Let's explore the future of technology together.
 
-🌐 **Website**: [www.possumic.com](http://www.possumic.com)  
+🌐 **Website**: [www.possumic.com](http://www.possumic.com/en)  
 ✉️ **Support**: [service@possumic.com](mailto:service@possumic.com)
 
 **Thank you for being part of our community!**
